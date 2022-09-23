@@ -134,12 +134,6 @@ To add this entry you can use the `edit-config` tag in the `config.xml` like thi
 </edit-config>
 ```
 
-## Windows quirks ##
-
-* Windows implementation currently doesn't support encode functionality.
-
-* On Windows 10 desktop ensure that you have Windows Media Player and Media Feature pack installed.
-
 ## Thanks on Github ##
 
 So many -- check out the original [iOS](https://github.com/phonegap/phonegap-plugins/tree/DEPRECATED/iOS/BarcodeScanner),  [Android](https://github.com/phonegap/phonegap-plugins/tree/DEPRECATED/Android/BarcodeScanner) and
